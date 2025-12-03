@@ -140,7 +140,7 @@
         "Notify me when I unlock an achievement": "Повідомити мене, коли я розблокую досягнення",
         "General": "Загальне",
         "Turn on notification sound effects": "Увімкнути звукові ефекти сповіщень",
-        "Extend the duration of notifications": "Розширити тривалість сповіщень",
+        "Extend the duration of notifications": "Збільшити тривалість сповіщень",
 
         "Audio & Video": "Аудіо та відео",
         "Enable navigation sounds": "Увімкнути звуки навігації",
@@ -216,8 +216,8 @@
         "Available for 6 more days": "Доступно ще 6 днів",
         "Available for 5 more days": "Доступно ще 5 днів",
 
-        "Play Fortnite your way. Be the last player standing in Battle Royale, Zero Build, Reload, and Fortnite OG, explore LEGO Fortnite experiences, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play hundreds of thousands of creator made games with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite! ©2025 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League ©2025 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. ©2025 The LEGO Group. All other trademarks are the property of their respective owners.": "Грайте у Fortnite по-своєму. Станьте останнім гравцем, що залишиться в Battle Royale, Zero Build, Reload та Fortnite OG, досліджуйте ігровий досвід LEGO Fortnite, пройдіть до фінішу з Rocket Racing або станьте зіркою концерту з Fortnite Festival. Грайте з друзями на тисячах безкоштовних островів, створених авторами, включаючи deathruns, tycoons, гонки, зомбі режими та багато іншого! Приєднуйтесь до спільноти авторів та створіть свій власний острів за допомогою інструментів Unreal Editor для Fortnite (UEFN) або Fortnite Creative. Кожен острів Fortnite має індивідуальний віковий рейтинг, тож ви можете знайти той, який підходить саме вам та вашим друзям. Знайдіть усе це у Fortnite! ©2025 Epic Games, Inc. Усі права захищено. Epic, Epic Games, логотип Epic Games, Unreal, Unreal Engine, UE5, логотип Unreal Engine, Fortnite, логотип Fortnite, Fortnite Festival та Rocket Racing є торговими марками або зареєстрованими торговими марками Epic Games, Inc. у США та інших країнах. Rocket League ©2025 Psyonix LLC. LEGO та логотип LEGO є торговими марками LEGO Group. ©2025 The LEGO Group. Усі інші торгові марки є власністю їхніх відповідних власників.",
-
+        "Play Fortnite your way. Be the last player standing in Battle Royale, Zero Build, Reload, and Fortnite OG, explore LEGO Fortnite experiences, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play hundreds of thousands of creator made games with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite! ©2025 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Fortnite, the Fortnite logo, Fortnite Festival, and Rocket Racing are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. Rocket League ©2025 Psyonix LLC. LEGO and the LEGO logo are trademarks of the LEGO Group. ©2025 The LEGO Group. All other trademarks are the property of their respective owners.": "Грайте у Fortnite по-своєму. Станьте останнім гравцем, що залишиться в Battle Royale, Zero Build, Reload та Fortnite OG, досліджуйте ігровий досвід LEGO Fortnite, перетніть фінішну смугу в Rocket Racing або станьте зіркою концерту в Fortnite Festival. Грайте з друзями на тисячах безкоштовних островів, створених авторами, включаючи deathruns, tycoons, гонки, зомбі режими та багато іншого! Приєднуйтесь до спільноти авторів та створіть свій власний острів за допомогою інструментів Unreal Editor для Fortnite (UEFN) або Fortnite Creative. Кожен острів Fortnite має індивідуальний віковий рейтинг, тож ви можете знайти той, який підходить саме вам та вашим друзям. Знайдіть усе це у Fortnite! ©2025 Epic Games, Inc. Усі права захищено. Epic, Epic Games, логотип Epic Games, Unreal, Unreal Engine, UE5, логотип Unreal Engine, Fortnite, логотип Fortnite, Fortnite Festival та Rocket Racing є торговими марками або зареєстрованими торговими марками Epic Games, Inc. у США та інших країнах. Rocket League ©2025 Psyonix LLC. LEGO та логотип LEGO є торговими марками LEGO Group. ©2025 The LEGO Group. Усі інші торгові марки є власністю їхніх відповідних власників.",
+        
         "All resolutions listed in this section represent maximum values as specified for each option; therefore, \"1080p\" denotes support for up to 1080p resolution.": "Усі роздільні здатності, перелічені в цьому розділі, представляють максимальні значення, зазначені для кожного параметра; тому \"1080p\" означає підтримку роздільної здатності до 1080p.",
 
         "Change": "Змінити",
@@ -256,5 +256,10 @@
         "You started cloud gaming on another device.": "Ви почали трансляцію на іншому пристрої.",
         "Go to home": "Повернутися на головну",
 
-        "Jump back in": "Повернутися в гру"
+        "Jump back in": "Повернутися в гру",
+
+        "Online co-op (2-4)": "Мережевий кооператив (2-4)",
+        "Online multiplayer (2-100)": "Мережевий мультиплеєр (2-100)",
+        "fps": "кадрів на секунду",
+        "Optimized for Xbox Series X|S": "Опримізовано для Xbox Series X|S"
 }
