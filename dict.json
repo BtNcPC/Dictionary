@@ -265,5 +265,7 @@
         
         "Couldn't start your game streaming session": "Не вдалося розпочати трансляцію Fortnite",
         "Unable to communicate with servers. Please check your network connection.": "Немвє зв’язку з серверами Xbox. Будь ласка, перевірте інтернет з’єднання.",
-        "Something went wrong, please try again later.": "Щось пішло не так, будь ласка, спробуйте ще раз пізніше."
+        "Something went wrong, please try again later.": "Щось пішло не так, будь ласка, спробуйте ще раз пізніше.",
+        "Trying to reconnect...": "Спроба повторного підключення...",
+        "We are unable to connect with the server. Please check your internet connection.": "Нам не вдалося підключитися до сервера Xbox. Будь ласка, перевірте інтернет з’єднання."
 }
