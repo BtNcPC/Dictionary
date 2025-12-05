@@ -261,5 +261,9 @@
         "Online co-op (2-4)": "Мережевий кооператив (2-4)",
         "Online multiplayer (2-100)": "Мережевий мультиплеєр (2-100)",
         "fps": "кадрів на секунду",
-        "Optimized for Xbox Series X|S": "Опримізовано для Xbox Series X|S"
+        "Optimized for Xbox Series X|S": "Опримізовано для Xbox Series X|S",
+        
+        "Couldn't start your game streaming session": "Не вдалося розпочати трансляцію Fortnite",
+        "Unable to communicate with servers. Please check your network connection.": "Немвє зв’язку з серверами Xbox. Будь ласка, перевірте інтернет з’єднання.",
+        "Something went wrong, please try again later.": "Щось пішло не так, будь ласка, спробуйте ще раз пізніше."
 }
