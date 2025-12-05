@@ -272,5 +272,10 @@
         "Surround sound": "Об'ємний звук",
         "Adjustable input sensitivity": "Регульована чутливість введення",
         "Playable without motion controls": "Можна грати без керування рухами",
-        "Playable without touch controls": "Можна грати без сенсорного керування"
+        "Playable without touch controls": "Можна грати без сенсорного керування",
+
+        "Language": "Мова",
+        "Interface": "Інтерфейс",
+        "Audio": "Звук",
+        "Subtitles": "Субтитри"
 }
