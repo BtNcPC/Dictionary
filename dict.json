@@ -267,5 +267,10 @@
         "Unable to communicate with servers. Please check your network connection.": "Немвє зв’язку з серверами Xbox. Будь ласка, перевірте інтернет з’єднання.",
         "Something went wrong, please try again later.": "Щось пішло не так, будь ласка, спробуйте ще раз пізніше.",
         "Trying to reconnect...": "Спроба повторного підключення...",
-        "We are unable to connect with the server. Please check your internet connection.": "Нам не вдалося підключитися до сервера Xbox. Будь ласка, перевірте інтернет з’єднання."
+        "We are unable to connect with the server. Please check your internet connection.": "Нам не вдалося підключитися до сервера Xbox. Будь ласка, перевірте інтернет з’єднання.",
+        
+        "Surround sound": "Об'ємний звук",
+        "Adjustable input sensitivity": "Регульована чутливість введення",
+        "Playable without motion controls": "Можна грати без керування рухами",
+        "Playable without touch controls": "Можна грати без сенсорного керування"
 }
